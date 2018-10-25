@@ -1,0 +1,9 @@
+var int a,b,c,d
+write ("Entrez votre premier nombre");
+read a 
+write ("Entrez votre deuxieme nombre");
+read b
+write ("Entrez votre troisieme nombre");
+read c 
+d = a + b + c
+write ("La somme est = " d/3);

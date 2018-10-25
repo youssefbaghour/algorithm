@@ -1,0 +1,7 @@
+var int a,b,c
+write ("entrez hauteurs");
+read a
+write ("entrez la base");
+read b
+c = (a * b)/2
+write ("la surface du triangle est = " c);

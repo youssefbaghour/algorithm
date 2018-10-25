@@ -1,0 +1,9 @@
+var int a,b,c,d
+write ("entrez le prix unitaire du produit");
+read a
+write ("entrez le prix du TVA");
+read b
+write ("entrez la quantité du produit");
+read c
+d =[(a*c)*(b/100)]+(a*c)
+write ("le prix total a payer est = " d);

@@ -1,0 +1,8 @@
+var int a,b,c
+write ("Donnez une valeur pour a");
+read a 
+write ("Donnez une valeur pour b");
+read b
+c = a
+a = b
+b = c

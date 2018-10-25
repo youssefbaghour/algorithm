@@ -1,0 +1,9 @@
+var int a,b,c,d
+write ("Entrez votre note du premier exam");
+read a 
+write ("Entrez votre note du deuxieme exam");
+read b
+write ("Entrez votre note du troisieme exam");
+read c 
+d = a + b + c
+write ("Votre moyenne est = " (d*100)/20
